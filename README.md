@@ -147,17 +147,7 @@
 
 ---
 
-## 08 / LET'S CONNECT
-
-<table width="100%" border="1" bordercolor="#555555" cellpadding="16" cellspacing="0">
-  <tr>
-    <td align="center"><strong>OPEN TO OPPORTUNITIES & COLLABORATION</strong><br /><br />Entry-level roles, freelance projects, and collaborations in web development, mobile development, QA testing, or IT support.<br /><br /><a href="https://github.com/KertCainAbajo"><strong>CONNECT ON GITHUB</strong></a></td>
-  </tr>
-</table>
-
----
-
-## 09 / TECHNOLOGIES I USE
+## 08 / TECHNOLOGIES I USE
 
 <div align="center">
 
@@ -182,21 +172,7 @@
 
 ---
 
-## 10 / GITHUB ACTIVITY
-
-<table width="100%" border="1" bordercolor="#555555" cellpadding="10" cellspacing="0">
-  <tr>
-    <td width="50%" align="center"><img height="170" src="./profile/stats.svg" alt="GitHub statistics" /></td>
-    <td width="50%" align="center"><img height="170" src="./profile/top-langs.svg" alt="Most used languages" /></td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center"><img src="https://streak-stats.demolab.com?user=KertCainAbajo&theme=transparent&hide_border=true&ring=ffffff&fire=cccccc&currStreakLabel=ffffff&sideLabels=aaaaaa&dates=777777" alt="GitHub contribution streak" /></td>
-  </tr>
-</table>
-
----
-
-## 11 / CONTRIBUTION GRAPH
+## 09 / CONTRIBUTION GRAPH
 
 <table width="100%" border="1" bordercolor="#555555" cellpadding="14" cellspacing="0">
   <tr><td align="center"><img src="https://raw.githubusercontent.com/KertCainAbajo/KertCainAbajo/output/github-contribution-grid-snake.gif" alt="Animated monochrome contribution graph" /></td></tr>
@@ -204,9 +180,9 @@
 
 ---
 
-## 12 / A LITTLE MOTIVATION
+## 10 / A LITTLE MOTIVATION
 
-<table width="100%" border="1" bordercolor="#555555" cellpadding="18" cellspacing="0">
+<table align="center" border="1" bordercolor="#555555" cellpadding="18" cellspacing="0">
   <tr><td align="center"><strong><em>"Great things are done by a series of small things brought together."</em></strong><br /><br />— Vincent van Gogh</td></tr>
 </table>
 
