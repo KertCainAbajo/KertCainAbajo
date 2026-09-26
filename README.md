@@ -6,6 +6,8 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=16&duration=2400&pause=900&color=E5E5E5&center=true&vCenter=true&width=650&height=32&lines=BUILDING+DIGITAL+SOLUTIONS;WEB+%26+MOBILE+DEVELOPMENT;CODE+%2F+CREATE+%2F+EVOLVE" alt="Animated developer tagline" />
 </a>
 
+<a href="https://kertcainabajo.github.io/KertCainAbajo/"><strong>OPEN INTERACTIVE PORTRAIT</strong></a>
+
 <p>
   <a href="https://github.com/KertCainAbajo?tab=followers"><img src="https://img.shields.io/github/followers/KertCainAbajo?label=FOLLOWERS&style=for-the-badge&color=303030" alt="GitHub followers" /></a>
   <a href="https://github.com/KertCainAbajo?tab=repositories"><img src="https://img.shields.io/github/stars/KertCainAbajo?affiliations=OWNER&style=for-the-badge&color=777777" alt="GitHub stars" /></a>
