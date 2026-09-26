@@ -199,7 +199,7 @@
 ## 11 / CONTRIBUTION GRAPH
 
 <table width="100%" border="1" bordercolor="#555555" cellpadding="14" cellspacing="0">
-  <tr><td align="center"><img src="https://raw.githubusercontent.com/KertCainAbajo/KertCainAbajo/output/github-contribution-grid-snake.svg" alt="Animated monochrome contribution graph" /></td></tr>
+  <tr><td align="center" bgcolor="#0B0B0B"><img src="https://raw.githubusercontent.com/KertCainAbajo/KertCainAbajo/output/github-contribution-grid-snake.gif" width="100%" alt="Animated monochrome contribution graph" /></td></tr>
 </table>
 
 ---
