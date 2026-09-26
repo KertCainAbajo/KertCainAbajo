@@ -1,16 +1,15 @@
 <div align="center">
 
-<!-- Upload the second image to assets/profile-scan.jpg in the profile repository -->
-<img src="https://raw.githubusercontent.com/KertCainAbajo/KertCainAbajo/main/assets/profile-scan.jpg" width="100%" alt="Kert Cain Abajo profile scan" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=180&color=0:050505,30:222222,65:666666,100:FFFFFF&text=KERT%20CAIN%20ABAJO&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=Information%20Technology%20Graduate%20-%20Web%20and%20Mobile%20Developer&descSize=15&descAlignY=64&animation=fadeIn&section=header" width="100%" alt="Animated black-and-white profile header" />
 
 <a href="https://github.com/KertCainAbajo">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=650&lines=Information+Technology+Graduate;Web+%26+Mobile+Application+Developer;Building+digital+solutions+with+purpose+%F0%9F%9A%80" alt="Typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=16&duration=2400&pause=900&color=E5E5E5&center=true&vCenter=true&width=650&height=32&lines=BUILDING+DIGITAL+SOLUTIONS;WEB+%26+MOBILE+DEVELOPMENT;CODE+%2F+CREATE+%2F+EVOLVE" alt="Animated developer tagline" />
 </a>
 
 <p>
-  <a href="https://github.com/KertCainAbajo?tab=followers"><img src="https://img.shields.io/github/followers/KertCainAbajo?label=Followers&style=for-the-badge&color=7c3aed" alt="GitHub followers" /></a>
-  <a href="https://github.com/KertCainAbajo?tab=repositories"><img src="https://img.shields.io/github/stars/KertCainAbajo?affiliations=OWNER&style=for-the-badge&color=f59e0b" alt="GitHub stars" /></a>
-  <a href="https://github.com/KertCainAbajo"><img src="https://komarev.com/ghpvc/?username=KertCainAbajo&style=for-the-badge&color=0ea5e9" alt="Profile views" /></a>
+  <a href="https://github.com/KertCainAbajo?tab=followers"><img src="https://img.shields.io/github/followers/KertCainAbajo?label=FOLLOWERS&style=for-the-badge&color=303030" alt="GitHub followers" /></a>
+  <a href="https://github.com/KertCainAbajo?tab=repositories"><img src="https://img.shields.io/github/stars/KertCainAbajo?affiliations=OWNER&style=for-the-badge&color=777777" alt="GitHub stars" /></a>
+  <a href="https://github.com/KertCainAbajo"><img src="https://komarev.com/ghpvc/?username=KertCainAbajo&style=for-the-badge&color=111111" alt="Profile views" /></a>
 </p>
 
 </div>
@@ -146,12 +145,12 @@ I am open to entry-level opportunities, freelance work, and collaborations relat
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=KertCainAbajo&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=7c3aed&icon_color=f59e0b&text_color=64748b" alt="GitHub statistics" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KertCainAbajo&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=7c3aed&text_color=64748b" alt="Most used languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=KertCainAbajo&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=ffffff&icon_color=cccccc&text_color=aaaaaa" alt="GitHub statistics" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KertCainAbajo&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=aaaaaa" alt="Most used languages" />
 
 <br />
 
-<img src="https://streak-stats.demolab.com?user=KertCainAbajo&theme=transparent&hide_border=true&ring=7c3aed&fire=f59e0b&currStreakLabel=7c3aed&sideLabels=64748b&dates=64748b" alt="GitHub contribution streak" />
+<img src="https://streak-stats.demolab.com?user=KertCainAbajo&theme=transparent&hide_border=true&ring=ffffff&fire=cccccc&currStreakLabel=ffffff&sideLabels=aaaaaa&dates=777777" alt="GitHub contribution streak" />
 
 </div>
 
